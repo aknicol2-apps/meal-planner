@@ -12,62 +12,74 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken thighs",
-        "amount": "700 g"
+        "amount": "700 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Greek yoghurt",
-        "amount": "250 g"
+        "amount": "250 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 4,
         "item": "Lemon",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Ground cumin",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 7,
         "item": "Ground coriander",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Smoked paprika",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Ground turmeric",
-        "amount": "1/2 tsp"
+        "amount": "1/2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 10,
         "item": "Cucumber",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Tomatoes",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 12,
         "item": "Olive oil",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -102,57 +114,68 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Beef steak strips",
-        "amount": "600 g"
+        "amount": "600 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Thai red curry paste",
-        "amount": "3 tbsp"
+        "amount": "3 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Coconut milk",
-        "amount": "400 ml"
+        "amount": "400 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 4,
         "item": "Red pepper",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Green beans",
-        "amount": "200 g"
+        "amount": "200 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 7,
         "item": "Fish sauce",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Meat & Fish"
       },
       {
         "order": 8,
         "item": "Brown sugar",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Lime",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Fresh basil or coriander",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Oil",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -187,42 +210,50 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Salmon fillets",
-        "amount": "4"
+        "amount": "4",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Baby potatoes",
-        "amount": "900 g"
+        "amount": "900 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Broccoli",
-        "amount": "1 head"
+        "amount": "1 head",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Lemon",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Fresh dill",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Butter",
-        "amount": "40 g"
+        "amount": "40 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 7,
         "item": "Dijon mustard",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Olive oil",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -257,52 +288,62 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Cooking chorizo",
-        "amount": "250 g"
+        "amount": "250 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Butter beans",
-        "amount": "2 x 400 g tins"
+        "amount": "2 x 400 g tins",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 3,
         "item": "Chopped tomatoes",
-        "amount": "400 g tin"
+        "amount": "400 g tin",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Red pepper",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Smoked paprika",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Chicken stock",
-        "amount": "250 ml"
+        "amount": "250 ml",
+        "category": "Meat & Fish"
       },
       {
         "order": 9,
         "item": "Flat-leaf parsley",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Crusty bread",
-        "amount": "1 loaf"
+        "amount": "1 loaf",
+        "category": "Bakery"
       }
     ],
     "method": [
@@ -337,62 +378,74 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken breast",
-        "amount": "650 g"
+        "amount": "650 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Bell peppers",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Red onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Flour tortillas",
-        "amount": "8"
+        "amount": "8",
+        "category": "Bakery"
       },
       {
         "order": 5,
         "item": "Soured cream",
-        "amount": "200 ml"
+        "amount": "200 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 6,
         "item": "Lime",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Ground cumin",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Smoked paprika",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Chilli powder",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Garlic powder",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Cheddar",
-        "amount": "150 g"
+        "amount": "150 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 12,
         "item": "Oil",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -427,67 +480,80 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Beef mince",
-        "amount": "700 g"
+        "amount": "700 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Potatoes",
-        "amount": "1.4 kg"
+        "amount": "1.4 kg",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Carrots",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Celery sticks",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Tomato purée",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Dark ale",
-        "amount": "250 ml"
+        "amount": "250 ml",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Beef stock",
-        "amount": "350 ml"
+        "amount": "350 ml",
+        "category": "Meat & Fish"
       },
       {
         "order": 10,
         "item": "Worcestershire sauce",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 11,
         "item": "Butter",
-        "amount": "60 g"
+        "amount": "60 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 12,
         "item": "Milk",
-        "amount": "120 ml"
+        "amount": "120 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 13,
         "item": "Thyme",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -522,52 +588,62 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Pork loin steaks",
-        "amount": "4 large"
+        "amount": "4 large",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Baby potatoes",
-        "amount": "900 g"
+        "amount": "900 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Carrots",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Red onions",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Broccoli",
-        "amount": "1 head"
+        "amount": "1 head",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Wholegrain mustard",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 7,
         "item": "Honey",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Olive oil",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Dried thyme",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Cider vinegar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -602,67 +678,80 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Firm white fish",
-        "amount": "650 g"
+        "amount": "650 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Coconut milk",
-        "amount": "400 ml"
+        "amount": "400 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 3,
         "item": "Chopped tomatoes",
-        "amount": "400 g tin"
+        "amount": "400 g tin",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Fresh ginger",
-        "amount": "25 g"
+        "amount": "25 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Ground turmeric",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Ground cumin",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Ground coriander",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Chilli flakes",
-        "amount": "1/2 tsp"
+        "amount": "1/2 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Lime",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 12,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 13,
         "item": "Coriander",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -697,52 +786,62 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken thighs",
-        "amount": "700 g"
+        "amount": "700 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Soy sauce",
-        "amount": "4 tbsp"
+        "amount": "4 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Honey",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Fresh ginger",
-        "amount": "25 g"
+        "amount": "25 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Rice vinegar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 7,
         "item": "Sesame oil",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Pak choi",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Sesame seeds",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -777,57 +876,68 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Lamb mince",
-        "amount": "600 g"
+        "amount": "600 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Ground cumin",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Dried oregano",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 5,
         "item": "Chopped tomatoes",
-        "amount": "2 x 400 g tins"
+        "amount": "2 x 400 g tins",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Red onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Couscous",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Feta",
-        "amount": "150 g"
+        "amount": "150 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 9,
         "item": "Parsley",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Lemon",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Olive oil",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -862,47 +972,56 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Tagliatelle",
-        "amount": "400 g"
+        "amount": "400 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 2,
         "item": "Chestnut mushrooms",
-        "amount": "500 g"
+        "amount": "500 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Baby spinach",
-        "amount": "200 g"
+        "amount": "200 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Crème fraîche",
-        "amount": "200 ml"
+        "amount": "200 ml",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Parmesan",
-        "amount": "80 g"
+        "amount": "80 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 7,
         "item": "Lemon",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Butter",
-        "amount": "30 g"
+        "amount": "30 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 9,
         "item": "Fresh thyme",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -937,62 +1056,74 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Pork mince",
-        "amount": "600 g"
+        "amount": "600 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Gochujang",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Soy sauce",
-        "amount": "3 tbsp"
+        "amount": "3 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Brown sugar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 5,
         "item": "Fresh ginger",
-        "amount": "20 g"
+        "amount": "20 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Sesame oil",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Cucumber",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Spring onions",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Sesame seeds",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 12,
         "item": "Rice vinegar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -1027,62 +1158,74 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken thighs",
-        "amount": "700 g"
+        "amount": "700 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Greek yoghurt",
-        "amount": "150 g"
+        "amount": "150 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 3,
         "item": "Garam masala",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Ground cumin",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 5,
         "item": "Paprika",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Fresh ginger",
-        "amount": "25 g"
+        "amount": "25 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Passata",
-        "amount": "500 ml"
+        "amount": "500 ml",
+        "category": "Store Cupboard"
       },
       {
         "order": 10,
         "item": "Double cream",
-        "amount": "150 ml"
+        "amount": "150 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 11,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 12,
         "item": "Coriander",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -1117,47 +1260,56 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Whole chicken",
-        "amount": "1.7–1.9 kg"
+        "amount": "1.7–1.9 kg",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Potatoes",
-        "amount": "1 kg"
+        "amount": "1 kg",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Carrots",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Parsnips",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Lemon",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Garlic bulb",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Fresh rosemary",
-        "amount": "4 sprigs"
+        "amount": "4 sprigs",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Fresh thyme",
-        "amount": "4 sprigs"
+        "amount": "4 sprigs",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Olive oil",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -1192,57 +1344,68 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken thighs",
-        "amount": "600 g"
+        "amount": "600 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Smoked sausage",
-        "amount": "250 g"
+        "amount": "250 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 3,
         "item": "Long-grain rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Celery sticks",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Red pepper",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Chopped tomatoes",
-        "amount": "400 g tin"
+        "amount": "400 g tin",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Chicken stock",
-        "amount": "650 ml"
+        "amount": "650 ml",
+        "category": "Meat & Fish"
       },
       {
         "order": 10,
         "item": "Cajun seasoning",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 11,
         "item": "Spring onions",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -1277,57 +1440,68 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Beef mince",
-        "amount": "650 g"
+        "amount": "650 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Ground cumin",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Ground coriander",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Couscous",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Greek yoghurt",
-        "amount": "200 g"
+        "amount": "200 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 7,
         "item": "Cucumber",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Tomatoes",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Parsley",
-        "amount": "1 bunch"
+        "amount": "1 bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Mint",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Lemon",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -1362,57 +1536,68 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Salmon fillets",
-        "amount": "4"
+        "amount": "4",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Egg noodles",
-        "amount": "350 g"
+        "amount": "350 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 3,
         "item": "Soy sauce",
-        "amount": "4 tbsp"
+        "amount": "4 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Honey",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 5,
         "item": "Rice vinegar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Fresh ginger",
-        "amount": "20 g"
+        "amount": "20 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Broccoli",
-        "amount": "1 head"
+        "amount": "1 head",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Carrot",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Spring onions",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Sesame oil",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -1447,52 +1632,62 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken thighs",
-        "amount": "700 g"
+        "amount": "700 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Cannellini beans",
-        "amount": "2 x 400 g tins"
+        "amount": "2 x 400 g tins",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Cherry tomatoes",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Baby spinach",
-        "amount": "150 g"
+        "amount": "150 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Chicken stock",
-        "amount": "250 ml"
+        "amount": "250 ml",
+        "category": "Meat & Fish"
       },
       {
         "order": 7,
         "item": "Double cream",
-        "amount": "100 ml"
+        "amount": "100 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 8,
         "item": "Dried oregano",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Parmesan",
-        "amount": "50 g"
+        "amount": "50 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 10,
         "item": "Crusty bread",
-        "amount": "1 loaf"
+        "amount": "1 loaf",
+        "category": "Bakery"
       }
     ],
     "method": [
@@ -1527,57 +1722,68 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Pork tenderloin",
-        "amount": "700 g"
+        "amount": "700 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Orange",
-        "amount": "1"
+        "amount": "1",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Lime",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Ground cumin",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 5,
         "item": "Smoked paprika",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Dried oregano",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 7,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Small tortillas",
-        "amount": "12"
+        "amount": "12",
+        "category": "Bakery"
       },
       {
         "order": 9,
         "item": "Red cabbage",
-        "amount": "1/4"
+        "amount": "1/4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Soured cream",
-        "amount": "150 ml"
+        "amount": "150 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 11,
         "item": "Coriander",
-        "amount": "1 bunch"
+        "amount": "1 bunch",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -1612,67 +1818,80 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Diced braising beef",
-        "amount": "800 g"
+        "amount": "800 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Coconut milk",
-        "amount": "800 ml"
+        "amount": "800 ml",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 3,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Garlic cloves",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Fresh ginger",
-        "amount": "30 g"
+        "amount": "30 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Lemongrass",
-        "amount": "2 stalks"
+        "amount": "2 stalks",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Ground coriander",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Ground cumin",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Ground turmeric",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 10,
         "item": "Chilli flakes",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Brown sugar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 12,
         "item": "Lime",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 13,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -1707,47 +1926,56 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken thighs",
-        "amount": "8"
+        "amount": "8",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Potatoes",
-        "amount": "1.2 kg"
+        "amount": "1.2 kg",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Lemons",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Garlic cloves",
-        "amount": "5"
+        "amount": "5",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Dried oregano",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Chicken stock",
-        "amount": "250 ml"
+        "amount": "250 ml",
+        "category": "Meat & Fish"
       },
       {
         "order": 7,
         "item": "Olive oil",
-        "amount": "3 tbsp"
+        "amount": "3 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Feta",
-        "amount": "100 g"
+        "amount": "100 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 9,
         "item": "Parsley",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -1782,52 +2010,62 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken thighs",
-        "amount": "700 g"
+        "amount": "700 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Harissa paste",
-        "amount": "3 tbsp"
+        "amount": "3 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Chickpeas",
-        "amount": "2 x 400 g tins"
+        "amount": "2 x 400 g tins",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Red peppers",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Red onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Cherry tomatoes",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Greek yoghurt",
-        "amount": "200 g"
+        "amount": "200 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 8,
         "item": "Lemon",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Cumin seeds",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 10,
         "item": "Olive oil",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -1862,62 +2100,74 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Beef steak",
-        "amount": "600 g"
+        "amount": "600 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Rice noodles",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Fish sauce",
-        "amount": "3 tbsp"
+        "amount": "3 tbsp",
+        "category": "Meat & Fish"
       },
       {
         "order": 4,
         "item": "Limes",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Brown sugar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 6,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Fresh chilli",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Cucumber",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Carrots",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Mint",
-        "amount": "1 bunch"
+        "amount": "1 bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 11,
         "item": "Coriander",
-        "amount": "1 bunch"
+        "amount": "1 bunch",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 12,
         "item": "Peanuts",
-        "amount": "60 g"
+        "amount": "60 g",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -1952,47 +2202,56 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Cod fillets",
-        "amount": "4"
+        "amount": "4",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Cooking chorizo",
-        "amount": "180 g"
+        "amount": "180 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 3,
         "item": "Cannellini beans",
-        "amount": "2 x 400 g tins"
+        "amount": "2 x 400 g tins",
+        "category": "Store Cupboard"
       },
       {
         "order": 4,
         "item": "Chopped tomatoes",
-        "amount": "400 g tin"
+        "amount": "400 g tin",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Red onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Smoked paprika",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Sherry vinegar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Parsley",
-        "amount": "1 small bunch"
+        "amount": "1 small bunch",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -2027,62 +2286,74 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Aubergines",
-        "amount": "2 large"
+        "amount": "2 large",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 2,
         "item": "Green lentils",
-        "amount": "2 x 400 g tins"
+        "amount": "2 x 400 g tins",
+        "category": "Store Cupboard"
       },
       {
         "order": 3,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Fresh ginger",
-        "amount": "25 g"
+        "amount": "25 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Chopped tomatoes",
-        "amount": "2 x 400 g tins"
+        "amount": "2 x 400 g tins",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Garam masala",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 8,
         "item": "Ground cumin",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Ground coriander",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 10,
         "item": "Paprika",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 11,
         "item": "Greek yoghurt",
-        "amount": "150 g"
+        "amount": "150 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 12,
         "item": "Basmati rice",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -2117,62 +2388,74 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Chicken breast",
-        "amount": "600 g"
+        "amount": "600 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Egg noodles",
-        "amount": "350 g"
+        "amount": "350 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 3,
         "item": "Broccoli",
-        "amount": "1 head"
+        "amount": "1 head",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Red pepper",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Carrots",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Soy sauce",
-        "amount": "4 tbsp"
+        "amount": "4 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 7,
         "item": "Fresh ginger",
-        "amount": "25 g"
+        "amount": "25 g",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Garlic cloves",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Sesame oil",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 10,
         "item": "Honey",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 11,
         "item": "Rice vinegar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 12,
         "item": "Sesame seeds",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
@@ -2207,67 +2490,80 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Diced lamb shoulder",
-        "amount": "800 g"
+        "amount": "800 g",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Garlic cloves",
-        "amount": "3"
+        "amount": "3",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Ground cumin",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 5,
         "item": "Ground coriander",
-        "amount": "2 tsp"
+        "amount": "2 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Ground cinnamon",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 7,
         "item": "Ground ginger",
-        "amount": "1 tsp"
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 8,
         "item": "Chopped tomatoes",
-        "amount": "400 g tin"
+        "amount": "400 g tin",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 9,
         "item": "Chicken stock",
-        "amount": "400 ml"
+        "amount": "400 ml",
+        "category": "Meat & Fish"
       },
       {
         "order": 10,
         "item": "Dried apricots",
-        "amount": "120 g"
+        "amount": "120 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 11,
         "item": "Chickpeas",
-        "amount": "400 g tin"
+        "amount": "400 g tin",
+        "category": "Store Cupboard"
       },
       {
         "order": 12,
         "item": "Couscous",
-        "amount": "300 g"
+        "amount": "300 g",
+        "category": "Store Cupboard"
       },
       {
         "order": 13,
         "item": "Coriander",
-        "amount": "1 bunch"
+        "amount": "1 bunch",
+        "category": "Fruit & Vegetables"
       }
     ],
     "method": [
@@ -2302,52 +2598,62 @@ window.RECIPES = [
       {
         "order": 1,
         "item": "Pork loin joint",
-        "amount": "1.2–1.4 kg"
+        "amount": "1.2–1.4 kg",
+        "category": "Meat & Fish"
       },
       {
         "order": 2,
         "item": "Potatoes",
-        "amount": "1.2 kg"
+        "amount": "1.2 kg",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 3,
         "item": "Apples",
-        "amount": "2"
+        "amount": "2",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 4,
         "item": "Onion",
-        "amount": "1"
+        "amount": "1",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 5,
         "item": "Garlic cloves",
-        "amount": "4"
+        "amount": "4",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 6,
         "item": "Fresh rosemary",
-        "amount": "4 sprigs"
+        "amount": "4 sprigs",
+        "category": "Fruit & Vegetables"
       },
       {
         "order": 7,
         "item": "Chicken stock",
-        "amount": "400 ml"
+        "amount": "400 ml",
+        "category": "Meat & Fish"
       },
       {
         "order": 8,
         "item": "Cider vinegar",
-        "amount": "1 tbsp"
+        "amount": "1 tbsp",
+        "category": "Store Cupboard"
       },
       {
         "order": 9,
         "item": "Butter",
-        "amount": "30 g"
+        "amount": "30 g",
+        "category": "Dairy & Eggs"
       },
       {
         "order": 10,
         "item": "Olive oil",
-        "amount": "2 tbsp"
+        "amount": "2 tbsp",
+        "category": "Store Cupboard"
       }
     ],
     "method": [
