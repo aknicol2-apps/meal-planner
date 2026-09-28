@@ -2674,5 +2674,157 @@ window.RECIPES = [
         "text": "Slice pork and serve with potatoes and apple gravy."
       }
     ]
+  },
+  {
+    "id": "beef-fajita-enchiladas",
+    "name": "Beef Fajita Enchiladas",
+    "style": "Mexican-inspired",
+    "description": "Beef, peppers and fajita spices rolled in tortillas with a smoky tomato sauce and bubbling mozzarella.",
+    "time": "35 min",
+    "minutes": 35,
+    "category": "Beef",
+    "serves": 4,
+    "ingredients": [
+      {
+        "order": 1,
+        "item": "Lean beef mince (5% fat)",
+        "amount": "400 g",
+        "category": "Meat & Fish"
+      },
+      {
+        "order": 2,
+        "item": "Red peppers",
+        "amount": "2 small",
+        "category": "Fruit & Vegetables"
+      },
+      {
+        "order": 3,
+        "item": "Green peppers",
+        "amount": "2 small",
+        "category": "Fruit & Vegetables"
+      },
+      {
+        "order": 4,
+        "item": "Onions",
+        "amount": "2 small",
+        "category": "Fruit & Vegetables"
+      },
+      {
+        "order": 5,
+        "item": "Fajita seasoning",
+        "amount": "3 tbsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 6,
+        "item": "Garlic",
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 7,
+        "item": "Salt",
+        "amount": "to taste",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 8,
+        "item": "Black pepper",
+        "amount": "to taste",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 9,
+        "item": "Low-cal tortilla wraps",
+        "amount": "8",
+        "category": "Bakery"
+      },
+      {
+        "order": 10,
+        "item": "Mozzarella",
+        "amount": "120 g",
+        "category": "Dairy & Eggs"
+      },
+      {
+        "order": 11,
+        "item": "Passata",
+        "amount": "300 g",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 12,
+        "item": "Tomato purée",
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 13,
+        "item": "Smoked paprika",
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 14,
+        "item": "Mild chilli powder",
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 15,
+        "item": "Ground cumin",
+        "amount": "1 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 16,
+        "item": "Spring onions",
+        "amount": "2",
+        "category": "Fruit & Vegetables"
+      },
+      {
+        "order": 17,
+        "item": "Fresh coriander",
+        "amount": "4–6 sprigs",
+        "category": "Fruit & Vegetables"
+      }
+    ],
+    "method": [
+      {
+        "order": 1,
+        "text": "Preheat the oven to 180°C fan (200°C conventional)."
+      },
+      {
+        "order": 2,
+        "text": "Heat a non-stick frying pan over medium-high heat. Add the beef mince and fry for 3–4 minutes until mostly browned."
+      },
+      {
+        "order": 3,
+        "text": "Add the onion and peppers. Cook for 5–6 minutes until the beef is browned and the vegetables are softened."
+      },
+      {
+        "order": 4,
+        "text": "While the vegetables soften, mix the passata, tomato purée, smoked paprika, chilli powder and cumin in a bowl. Season with salt and pepper, taste and adjust as needed."
+      },
+      {
+        "order": 5,
+        "text": "Stir the fajita seasoning and garlic into the beef mixture. Season lightly with salt and black pepper and cook for another 2 minutes."
+      },
+      {
+        "order": 6,
+        "text": "Spoon the beef fajita filling evenly into the tortillas, roll them up tightly and place seam-side down in an ovenproof baking dish."
+      },
+      {
+        "order": 7,
+        "text": "Pour the enchilada sauce evenly over the top, then sprinkle with grated mozzarella."
+      },
+      {
+        "order": 8,
+        "text": "Bake for 15–20 minutes, until the cheese is melted, golden and bubbling."
+      },
+      {
+        "order": 9,
+        "text": "Garnish with chopped spring onion and fresh coriander."
+      }
+    ]
   }
 ];
