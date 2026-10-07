@@ -37,3 +37,5 @@
 .deptdraghandle{flex:0 0 38px}
 .deptactions{display:flex;gap:6px;align-items:center}
 .deptactions button{min-height:36px;padding:6px 10px}
+
+.sortghost{opacity:.28!important;background:#e7eee9!important}.sortchosen{outline:2px solid var(--green)!important;outline-offset:-2px}.sortdrag{opacity:.95!important;box-shadow:0 10px 28px rgba(0,0,0,.22)!important;background:#fff!important}.sortable-fallback{opacity:.96!important;box-shadow:0 10px 28px rgba(0,0,0,.22)!important;background:#fff!important}
