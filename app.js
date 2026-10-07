@@ -76,7 +76,7 @@ function setupItemDragging(){
   const list=section.querySelector(".shopitems");
   if(!list)return;
   if(typeof Sortable!=="undefined"){
-    Sortable.create(list,{animation:160,handle:".draghandle",draggable:"[data-drag-gid]",ghostClass:"sortghost",chosenClass:"sortchosen",dragClass:"sortdrag",forceFallback:true,fallbackOnBody:true,fallbackTolerance:3,touchStartThreshold:3,onEnd:async()=>{
+    Sortable.create(list,{animation:90,easing:"cubic-bezier(.2,.8,.2,1)",handle:".draghandle",draggable:"[data-drag-gid]",ghostClass:"sortghost",chosenClass:"sortchosen",dragClass:"sortdrag",forceFallback:false,fallbackOnBody:false,fallbackTolerance:0,touchStartThreshold:1,onEnd:async()=>{
       const ids=[...list.querySelectorAll("[data-drag-gid]")].map(r=>Number(r.dataset.dragGid));
       ids.forEach((id,i)=>{const item=groceryItems.find(x=>x.id===id);if(item)item.item_sort_order=(i+1)*10});
       renderCombined();
@@ -105,7 +105,7 @@ function setupDepartmentDragging(){
   const list=document.querySelector("#departmentList");
   if(!list)return;
   if(typeof Sortable!=="undefined"){
-    Sortable.create(list,{animation:160,handle:".deptdraghandle",draggable:"[data-dept-id]",ghostClass:"sortghost",chosenClass:"sortchosen",dragClass:"sortdrag",forceFallback:true,fallbackOnBody:true,fallbackTolerance:3,touchStartThreshold:3,onEnd:async()=>{
+    Sortable.create(list,{animation:90,easing:"cubic-bezier(.2,.8,.2,1)",handle:".deptdraghandle",draggable:"[data-dept-id]",ghostClass:"sortghost",chosenClass:"sortchosen",dragClass:"sortdrag",forceFallback:false,fallbackOnBody:false,fallbackTolerance:0,touchStartThreshold:1,onEnd:async()=>{
       const ids=[...list.querySelectorAll("[data-dept-id]")].map(r=>Number(r.dataset.deptId));
       const deps=ids.map(id=>groceryDepartments.find(x=>x.id===id)).filter(Boolean);
       await saveDepartmentOrder(deps);
