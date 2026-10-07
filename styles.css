@@ -43,3 +43,6 @@
 /* v5.4.8: held rows track the pointer directly; only surrounding rows animate. */
 .sortdrag,.sortable-fallback{transition:none!important;animation:none!important;will-change:transform!important}
 .sortchosen{transition:none!important}
+
+/* v5.5 ingredient department assignment */
+.combinedrow{grid-template-columns:34px 1fr auto auto}.combinedrow .ingredientedit{border:0;background:transparent;color:#8a918d;padding:7px;font-size:15px}.unassignedgroup h2{font-weight:800}.unassignedgroup .shopitems{border-style:dashed}
