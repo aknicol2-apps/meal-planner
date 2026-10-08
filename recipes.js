@@ -2826,5 +2826,149 @@ window.RECIPES = [
         "text": "Garnish with chopped spring onion and fresh coriander."
       }
     ]
+  },
+  {
+    "id": "peri-chicken-halloumi-chutney-pittas",
+    "name": "Peri Chicken, Halloumi & Chutney Pittas",
+    "style": "Peri-inspired",
+    "description": "Spiced peri chicken, golden halloumi, sweet red onion chutney, crisp lettuce and homemade garlic mayo in warm pittas.",
+    "time": "25 min",
+    "minutes": 25,
+    "category": "Chicken",
+    "serves": 4,
+    "ingredients": [
+      {
+        "order": 1,
+        "item": "Chicken breasts",
+        "amount": "4 (about 150 g each)",
+        "category": "Meat & Fish"
+      },
+      {
+        "order": 2,
+        "item": "Smoked paprika",
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 3,
+        "item": "Garlic granules",
+        "amount": "2 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 4,
+        "item": "Salt",
+        "amount": "to taste",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 5,
+        "item": "Black pepper",
+        "amount": "to taste",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 6,
+        "item": "Peri marinade or sauce",
+        "amount": "4 tbsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 7,
+        "item": "Pitta breads",
+        "amount": "4",
+        "category": "Bakery"
+      },
+      {
+        "order": 8,
+        "item": "Halloumi",
+        "amount": "160 g",
+        "category": "Dairy & Eggs"
+      },
+      {
+        "order": 9,
+        "item": "Caramelised red onion chutney",
+        "amount": "60 g",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 10,
+        "item": "Lettuce",
+        "amount": "4 handfuls",
+        "category": "Fruit & Vegetables"
+      },
+      {
+        "order": 11,
+        "item": "Lighter mayonnaise",
+        "amount": "80 g",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 12,
+        "item": "Garlic granules (for mayo)",
+        "amount": "1/2 tsp",
+        "category": "Store Cupboard"
+      },
+      {
+        "order": 13,
+        "item": "Lemon juice",
+        "amount": "1 tsp",
+        "category": "Fruit & Vegetables"
+      }
+    ],
+    "method": [
+      {
+        "order": 1,
+        "text": "Combine the lighter mayonnaise, half a teaspoon of garlic granules and lemon juice. Add a little salt and pepper, then refrigerate until needed."
+      },
+      {
+        "order": 2,
+        "text": "Butterfly the chicken breasts and gently flatten any thick parts so they cook evenly."
+      },
+      {
+        "order": 3,
+        "text": "Season the chicken with smoked paprika, two teaspoons of garlic granules, salt and black pepper."
+      },
+      {
+        "order": 4,
+        "text": "Coat both sides with the peri marinade or sauce."
+      },
+      {
+        "order": 5,
+        "text": "Air-fryer option: cook the chicken at 180°C for about 14–16 minutes, turning halfway, until thoroughly cooked."
+      },
+      {
+        "order": 6,
+        "text": "Pan option: fry the chicken in a non-stick pan over medium-high heat, turning as needed until cooked through; use this instead of the air-fryer step."
+      },
+      {
+        "order": 7,
+        "text": "Warm the pitta breads following the packet directions, or air-fry at 180°C for 4–5 minutes, turning halfway."
+      },
+      {
+        "order": 8,
+        "text": "Sear the halloumi in a hot non-stick frying pan for about 1–2 minutes per side until golden."
+      },
+      {
+        "order": 9,
+        "text": "Rest the cooked chicken briefly, then slice into strips."
+      },
+      {
+        "order": 10,
+        "text": "Cut open the warm pittas and spread a little garlic mayo inside."
+      },
+      {
+        "order": 11,
+        "text": "Fill with the sliced peri chicken."
+      },
+      {
+        "order": 12,
+        "text": "Add halloumi, red onion chutney and lettuce."
+      },
+      {
+        "order": 13,
+        "text": "Serve immediately, with any remaining garlic mayo on the side."
+      }
+    ]
   }
 ];
